@@ -55,7 +55,7 @@
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
-	                        	 <li><a href="${contextPath}/login">LOGIN</a></li>
+	                        	 <li><a href="${contextPath}/login">nani</a></li>
 	                        	 <li><a href="${contextPath}/registration">SIGN UP</a></li>
 	                       	 	</ul>
                             </div>
@@ -71,7 +71,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> Narendra</h2>
+        <h2 class="form-heading" align="center"> NANI</h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="Username"
